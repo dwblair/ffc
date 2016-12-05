@@ -7,6 +7,14 @@ Following Atomiton instructions ...
 - [pic1](assets/12_5_2016_sensor_hub_001.png)
 - [pic2](assets/12_5_2016_sensor_hub_002.png)
 
+<img src="assets/12_5_2016_sensor_hub_001.png" width=300>
+
+<img src="assets/12_5_2016_sensor_hub_001.png" width=300>
+
+<img src="assets/12_5_2016_sensor_hub_001.png" width=300>
+
+<img src="assets/12_5_2016_sensor_hub_001.png" width=300>
+
 Don't currently have router to connect to etherport from gateway.  Will look into finding router.
 
 
