@@ -4,13 +4,13 @@ Following Atomiton instructions ...
 
 - Gateway and sensor hub connected.  Soil moisture measurements being logged.
 
-<img src="assets/12_5_2016_sensor_hub_001.png" width=500>
+<img src="assets/12_5_2016_sensor_hub_001.png" width=100%>
 
-<img src="assets/12_5_2016_sensor_hub_002.png" width=500>
+<img src="assets/12_5_2016_sensor_hub_002.png" width=100%>
 
-<img src="assets/12_5_2016_sensor_hub_moisture_drop_003.png" width=500>
+<img src="assets/12_5_2016_sensor_hub_moisture_drop_003.png" width=100%>
 
-<img src="assets/12_5_2016_sensor_hub_moisture_long_decay_while_wetting_004.png" width=500>
+<img src="assets/12_5_2016_sensor_hub_moisture_long_decay_while_wetting_004.png" width=100%>
 
 <img src="assets/12_5_2016_sensor_hub_moisture_recovery_while_drying_005.png" width=100%>
 
